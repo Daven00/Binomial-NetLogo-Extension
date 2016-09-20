@@ -8,8 +8,8 @@ This extension is written in Java and eased by the use of Commons Math[2] librar
 
 References
 
-[1] Charles Staelin. NetLogo stats Extension. Available from https://github.com/ cstaelin/Stats-Extension/archive/master.zip. Nov. 2015. url: https:// github.com/cstaelin/Stats-Extension.
+[1] Charles Staelin. NetLogo stats Extension. Available from https://github.com/cstaelin/Stats-Extension/archive/master.zip. Nov. 2015. url: https:// github.com/cstaelin/Stats-Extension.
 
-[2] Commons Math Developers. Apache Commons Math, Release 3.6.1. Available from http://commons.apache.org/proper/commons-math/download_math.cgi. The Apache Software Foundation, Mar. 2016. url: http://commons.apache.org/ proper/commons-math/.
+[2] Commons Math Developers. Apache Commons Math, Release 3.6.1. Available from http://commons.apache.org/proper/commons-math/download_math.cgi. The Apache Software Foundation, Mar. 2016. url: http://commons.apache.org/proper/commons-math/.
 
 [3] Kevin Wayne Robert Sedgewick. Introduction to Programming in Java. Available from http://introcs.cs.princeton.edu/java/92symbolic/Polynomial.java. html. Oct. 2012. url: http://introcs.cs.princeton.edu/java/92symbolic/.
