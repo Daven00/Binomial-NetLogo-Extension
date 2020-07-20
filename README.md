@@ -1,7 +1,7 @@
 # Binomial-NetLogo-Extension
 a NetLogo extension for binomial distributions.
 
-The binomial extension provides just one statistical function for data generated within NetLogo models. stats extension[1] contains the majority of statistical functions and it includes data manipulation of binomial distributions as well. Nevertheless this extension has been developed to deal with an uncommon circumstance:  find the success probability (p) of a binomial distribution given the number of trials (n), the number of successes (k) and the Cumulative Distribution Function (CDF or F (k; n; p)).
+The binomial extension provides just one statistical function for data generated within NetLogo models. "stats" extension[1] contains the majority of statistical functions and includes data manipulation of binomial distributions as well. Nevertheless, this extension has been developed to deal with an uncommon circumstance:  find the success probability (p) of a binomial distribution given the number of trials (n), the number of successes (k) and the Cumulative Distribution Function (CDF or F (k; n; p)).
 
 This extension is written in Java and eased by the use of Commons Math[2] library and Symbolic Methods[3].
 
